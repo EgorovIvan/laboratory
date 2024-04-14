@@ -1,0 +1,51 @@
+[
+	{
+		"id": 1,
+		"name": "Morgan, Beck L.",
+		"company": "Sed Leo Limited",
+		"group": "group-1",
+		"isPresence": true
+	},
+	{
+		"id": 2,
+		"name": "Torres, Patience U.",
+		"company": "Non Corp.",
+		"group": "group-3",
+		"isPresence": false
+	},
+	{
+		"id": 3,
+		"name": "Lancaster, Ezekiel X.",
+		"company": "Nec Tempus Mauris Industries",
+		"group": "group-4",
+		"isPresence": true
+	},
+	{
+		"id": 4,
+		"name": "Moran, Joel L.",
+		"company": "Luctus Curabitur Company",
+		"group": "group-1",
+		"isPresence": true
+	},
+	{
+		"id": 5,
+		"name": "Gay, Laith Z.",
+		"company": "Id Enim Ltd",
+		"group": "group-1",
+		"isPresence": true
+	},
+	{
+		"id": 6,
+		"name": "Bennett, Jescie H.",
+		"company": "Urna Justo Industries",
+		"group": "group-2",
+		"isPresence": false
+	},
+	{
+		"id": 7,
+		"name": "Joseph, Xander G.",
+		"company": "Lobortis Quis Limited",
+		"group": "group-3",
+		"isPresence": false
+	}
+]
